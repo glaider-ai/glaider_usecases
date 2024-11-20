@@ -1,0 +1,2 @@
+glaider==0.2.0
+pymailtm==1.1.1
