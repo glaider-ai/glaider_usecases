@@ -42,9 +42,7 @@ Each project has its own README with specific setup instructions. Choose the pro
 
 For detailed information about Glaider's API and features, refer to the official documentation:
 
-- [API Overview](https://docs.glaider.com/api-documentation/overview)
-- [Features](https://docs.glaider.com/features)
-- [Use Cases](https://docs.glaider.com/use-cases)
+- [API Overview](https://docs.glaider.it/api-reference/introduction)
 
 ## Contributing
 
